@@ -20,7 +20,7 @@ Before you get started, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/AlphaJr1/real-estate-price-prediction.git
+    git clone https://github.com/AlphaJr1/Real-Estate-Price-Predictor.git
     ```
 
 2. Navigate to the project directory:
