@@ -1,6 +1,9 @@
 # Real-Estate-Price-Predictor
 This repo showcases my third-semester coursework project where I used linear regression to predict real estate prices. It includes data analysis, processing, and model building. Check out the notebook to see the process and results. Perfect for those interested in data science and real estate pricing. Enjoy! 🏡📈
 
+Presentation:
+https://www.canva.com/design/DAFvyhb5lIM/sZ3h7Mw8KoLIJ7CFFrCtmw/view?utm_content=DAFvyhb5lIM&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## Project Overview
 
 This project aims to predict the prices of real estate properties based on various features such as location, size, number of bedrooms, etc. The main steps involved are data analysis, data processing, and model development using linear regression.
